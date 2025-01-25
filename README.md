@@ -20,6 +20,9 @@ O objetivo desse projeto é colocar em prática o que foi aprendido durante as a
 <li>Validar quantidade de pessoas: Se houver menos do que duas pessoas, não será possível fazer o sorteio, nem faria sentido sortear.</li></ul>
 
 ## Telas da aplicação:
+![Captura de Tela (155)](https://github.com/user-attachments/assets/c619a15e-0bae-4923-ba1e-844278a2619b)
+
+
 <img src='challenge-amigo-secreto_pt-main/prints/AdicionarAmigo.png' alt="Adicionar Amigo">
 <img src='challenge-amigo-secreto_pt-main/prints/ValidacaoNomeEmBranco.png' alt="Nome em Branco">
 <img src='challenge-amigo-secreto_pt-main/prints/ValidacaoNomeRepetido.png' alt="Nome Repetido">
